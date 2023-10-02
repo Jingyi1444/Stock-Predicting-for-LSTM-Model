@@ -1,0 +1,11 @@
+numpy
+pandas
+matplotlib
+pandas_datareader
+tensorflow
+keras
+streamlit
+datetime
+yfinance
+scikit-learn
+wheel
